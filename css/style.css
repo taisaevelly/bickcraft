@@ -84,6 +84,10 @@ p{
 .header_menu ul li a:hover{
 	color: #fff;
 }
+
+.header_menu ul li a.menu_ativo{
+	color:#fff;
+}
 /*Introdução*/
 .introducao{
 	width: 100%;
